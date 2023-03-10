@@ -1,1 +1,1 @@
-# Program to generate a given string using Genetic algorithm
+Program to generate a given string using Genetic algorithm
